@@ -1,0 +1,12 @@
+[package]
+name = "direction_to_nowhere_pilot"
+version = "0.1.0"
+edition = "2021"
+
+# Указываем путь к нашему демо-файлу
+[[bin]]
+name = "chapter_5_blackhole"
+path = "03_Demo_Chapter_Torus/src/main.rs"
+
+[dependencies]
+
